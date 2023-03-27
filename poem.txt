@@ -3,4 +3,5 @@ The Rainbow
 Red
 Green
 Blue
+Yellow
 These are the colours of the rainbow.
